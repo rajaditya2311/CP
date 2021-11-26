@@ -1,0 +1,1 @@
+{"name":"Local: pizza","url":"d:\\cp\\pizza.cpp","tests":[{"id":1627655850173,"input":"6\n12\n15\n300\n1\n9999999999999999\n3","output":"30\n40\n750\n15\n25000000000000000\n15"},{"id":1627656576377,"input":"1\n36","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\pizza.cpp","group":"local","local":true}
